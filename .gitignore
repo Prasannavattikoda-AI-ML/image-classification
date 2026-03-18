@@ -1,0 +1,16 @@
+# Data and models (too large for git)
+data/
+models/best_model.keras
+models/model_meta.json
+
+# Results (generated)
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
